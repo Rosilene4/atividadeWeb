@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('imagens/inteligência-artificial-fundo-da-web-tecnologia-concentrado-virtual-100399265.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    
+  }
+
+h2{
+  text-align: center;
+  text-decoration-color: azure;
+}
+p{
+  text-decoration-color: azure;
+}
+section{
+  text-align: left;
+  
+}
+nav ul li{
+  display: inline-block;
+  margin-right: 10px;
+  text-align: center;
+
+}
+
+
+
+  
